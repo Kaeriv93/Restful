@@ -1,0 +1,20 @@
+{
+  "name": "restful",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kaeriv93/Restful.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kaeriv93/Restful/issues"
+  },
+  "homepage": "https://github.com/Kaeriv93/Restful#readme"
+}
